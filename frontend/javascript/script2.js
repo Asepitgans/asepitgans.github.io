@@ -1,7 +1,7 @@
 const mySosmed = {
-    'facebook': 'https://web.facebook.com/61556949299760',
-    'instagram':'https://www.instagram.com/dapunta.ratya',
-    'whatsapp': 'https://api.whatsapp.com/send/?phone=6282227340836&text=Assalamualaikum+Mas&type=phone_number&app_absent=0',
+    'facebook': 'https://web.facebook.com/Neng.Njancok',
+    'instagram':'https://www.instagram.com/develover_2003',
+    'whatsapp': 'https://api.whatsapp.com/send/?phone=6289530656600&text=Assalamualaikum+Mas&type=phone_number&app_absent=0',
     'twitter':  '',
     'discord':  '',
     'linkedin': '',
